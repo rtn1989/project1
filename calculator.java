@@ -1,4 +1,5 @@
 /* This is Test */
+/* this program will add two numbers */
 import java.util.Scanner;
 
  public class calculator
