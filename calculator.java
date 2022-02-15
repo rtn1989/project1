@@ -25,6 +25,7 @@ import java.util.Scanner;
                          a = scan.nextFloat();
                          b = scan.nextFloat();
                          res = a + b;
+			 res = a - b;
                          System.out.print("Result = " + res);
 	                 break;															                       
 	      case '2' : System.out.print("Enter Two Number : ");
